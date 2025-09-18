@@ -13,4 +13,8 @@ Miguel Ângelo Lima de Sousa
 
 4. <https://morango-tango.github.io/Projeto-4/>
 
-5. 
+5. <https://morango-tango.github.io/Projeto-5/>
+
+6. <https://morango-tango.github.io/Projeto-6/>
+
+7. 
