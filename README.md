@@ -17,4 +17,4 @@ Miguel Ângelo Lima de Sousa
 
 6. <https://morango-tango.github.io/Projeto-6/>
 
-7. 
+7. <https://morango-tango.github.io/Projeto-7/>
